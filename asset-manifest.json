@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deepak_todolist_react/static/css/main.3db9a3de.chunk.css",
+    "main.js": "/deepak_todolist_react/static/js/main.cbaef251.chunk.js",
+    "main.js.map": "/deepak_todolist_react/static/js/main.cbaef251.chunk.js.map",
+    "runtime-main.js": "/deepak_todolist_react/static/js/runtime-main.b6f7d2bf.js",
+    "runtime-main.js.map": "/deepak_todolist_react/static/js/runtime-main.b6f7d2bf.js.map",
+    "static/js/2.d7ac9f29.chunk.js": "/deepak_todolist_react/static/js/2.d7ac9f29.chunk.js",
+    "static/js/2.d7ac9f29.chunk.js.map": "/deepak_todolist_react/static/js/2.d7ac9f29.chunk.js.map",
+    "static/js/3.45203574.chunk.js": "/deepak_todolist_react/static/js/3.45203574.chunk.js",
+    "static/js/3.45203574.chunk.js.map": "/deepak_todolist_react/static/js/3.45203574.chunk.js.map",
+    "index.html": "/deepak_todolist_react/index.html",
+    "static/css/main.3db9a3de.chunk.css.map": "/deepak_todolist_react/static/css/main.3db9a3de.chunk.css.map",
+    "static/js/2.d7ac9f29.chunk.js.LICENSE.txt": "/deepak_todolist_react/static/js/2.d7ac9f29.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deepak_todolist_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f7d2bf.js",
+    "static/js/2.d7ac9f29.chunk.js",
+    "static/css/main.3db9a3de.chunk.css",
+    "static/js/main.cbaef251.chunk.js"
+  ]
+}
